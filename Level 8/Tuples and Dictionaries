@@ -1,0 +1,9 @@
+Q46
+
+student = {
+    "Name": "Garima",
+    "Age": 19,
+    "Course": "BTech"
+}
+
+print(student)
